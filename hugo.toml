@@ -1,0 +1,50 @@
+baseURL = 'https://mostdiv.co.uk/'
+languageCode = 'en-gb'
+title = 'Mostly Divided'
+theme = 'hextra'
+enableInlineShortcodes = true
+
+[params.page]
+	width = "wide"
+
+[params.navbar]
+	displayLogo = true
+	displayTitle = true
+[params.navbar.logo]
+	path = "images/logo.png"
+	dark = "images/logo-dark.png"
+	link = "/"
+	width = 40
+	height = 40
+
+
+[markup.goldmark.renderer]
+	unsafe = true
+[markup.highlight]
+	noClasses = false
+
+
+[[menu.main]]
+	name = "Search"
+	weight = 50
+[menu.main.params]
+	type = "search"
+[params.search]
+	enable = true
+	type = "flexsearch"
+[params.search.flexsearch]
+    index = "content"
+
+[[menu.main]]
+	name = "Discord"
+	weight = 100
+	url = "https://discord.gg/9mNzWsT" #ninjadogs14's Dojo because funny
+[menu.main.params]
+	icon = "discord"
+
+
+[params.footer]
+	enable = true
+	displayCopyright = false
+	displayPoweredBy = true
+	width = "wide"
