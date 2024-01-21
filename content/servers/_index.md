@@ -14,8 +14,7 @@ status-offline
 status-online
 -->
 
-See sidebar on left for currenly running, and ready to go or something
-idk maybe I'll set that up but tbh idk if I can be arsed.
+See sidebar on the left for a list of games with dedicated server, whether they are running, and some related info.
 
 Quick links:
 {{< cards >}}

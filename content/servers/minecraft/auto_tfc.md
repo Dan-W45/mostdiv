@@ -7,15 +7,17 @@ toc = false
 	type = 'docs'
 +++
 
-Create + Terra Firma Craft 1.18
+## Create + Terra Firma Craft 1.18
 
+{{< cards >}}
+	{{< card link="https://www.curseforge.com/minecraft/modpacks/auto-terrafirmacraft-tfc-create" title="curseforge modpack page" icon="external-link">}}
+{{< /cards >}}
 
-https://www.curseforge.com/minecraft/modpacks/auto-terrafirmacraft-tfc-create
-
+We don't know what the end goal is, there is no way to the Nether as portals do not light, and custom TFC world generation
+does not generate a stronghold.
 
 {{< callout type="warning" >}}
-Server will not render skins by default.
-Add this mod for skin rendering:\
+Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/3772643
 {{< /callout >}}
 

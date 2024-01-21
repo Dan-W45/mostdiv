@@ -7,14 +7,17 @@ toc = false
 	type = 'docs'
 +++
 
-Big ol modpack for 1.12
+## Big Modpack for 1.12
 
-https://www.curseforge.com/minecraft/modpacks/minecraft-eternal
+{{< cards >}}
+	{{< card link="https://www.curseforge.com/minecraft/modpacks/minecraft-eternal" title="curseforge modpack page" icon="external-link">}}
+{{< /cards >}}
+
+Last known server version was MC Eternal 1.6.1 although it is most certainly not currently running.
 
 
 {{< callout type="warning" >}}
-Server will not render skins by default.
-Add this mod for skin rendering:\
+Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
 {{< /callout >}}
 
