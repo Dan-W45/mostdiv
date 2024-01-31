@@ -1,7 +1,7 @@
 +++
 title = '🟢 Auto TFC'
 weight = 1
-draft = true
+draft = false
 toc = false
 [cascade]
 	type = 'docs'

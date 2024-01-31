@@ -1,7 +1,7 @@
 +++
 title = '🟢 Satisfactory'
 weight = 1
-draft = true
+draft = false
 [cascade]
 	type = 'docs'
 +++
