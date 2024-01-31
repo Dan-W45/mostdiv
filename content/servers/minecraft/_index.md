@@ -14,7 +14,7 @@ List of minecraft servers
 {{< cards >}}
   {{< card link="auto_tfc" title="🟢 Auto TFC" >}}
   {{< card link="create_ab" title="🔴 Create A&B" >}}
-  {{< card link="eternal" title="🔴 MC Eternal" >}}
+  {{< card link="steampunk" title="🟢 SteamPunk" >}}
 {{< /cards >}}
 
 
