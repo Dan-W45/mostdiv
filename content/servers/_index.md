@@ -1,7 +1,7 @@
 +++
 title = 'Server List'
 linkTitle = 'Servers'
-draft = true
+draft = false
 pre = '<i class="status-online"></i>'
 [cascade]
 	type = 'docs'

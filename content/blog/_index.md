@@ -1,6 +1,6 @@
 +++
 title = 'Blog'
-draft = true
+draft = false
 [cascade]
 	type = 'blog'
 [menu.main]

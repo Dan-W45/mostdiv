@@ -1,7 +1,7 @@
 +++
 title = 'Other'
 weight = 3
-draft = true
+draft = false
 [cascade]
 	type = 'docs'
 [sidebar]
