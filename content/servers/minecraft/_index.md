@@ -12,9 +12,9 @@ List of minecraft servers
 
 
 {{< cards >}}
-  {{< card link="auto_tfc" title="🟢 Auto TFC" >}}
+  {{< card link="atm9" title="🟢 All the Mods 9" >}}
   {{< card link="create_ab" title="🔴 Create A&B" >}}
-  {{< card link="steampunk" title="🟢 SteamPunk" >}}
+  {{< card link="steampunk" title="🔴 SteamPunk" >}}
 {{< /cards >}}
 
 
