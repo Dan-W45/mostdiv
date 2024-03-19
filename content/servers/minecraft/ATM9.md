@@ -31,7 +31,7 @@ https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/4592954
 
 ### Step 1
 
-Find the SteamPunk mods folder\
+Find the All the Mods 9 mods folder\
 This can be done through GD Launcher by selecting "Open Folder"
 in the right click context menu.
 
