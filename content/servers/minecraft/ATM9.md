@@ -7,11 +7,15 @@ toc = false
 	type = 'docs'
 +++
 
-## Modpack for 1.20.1 with over 400 mods
+## Modpack for 1.20 with over 400 mods
 
 {{< cards >}}
 	{{< card link="https://www.curseforge.com/minecraft/modpacks/all-the-mods-9" title="curseforge modpack page" icon="external-link">}}
 {{< /cards >}}
+
+{{< callout type="info" >}}
+Server is running version 0.2.51
+{{< /callout >}}
 
 ATM9 has over 400 mods and countless quests and a built in proper endgame. Can you craft the ATM Star?
 Do you dare take on the Gregstar?
