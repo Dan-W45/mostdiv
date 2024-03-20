@@ -14,7 +14,7 @@ toc = false
 {{< /cards >}}
 
 {{< callout type="info" >}}
-Server is running version 0.2.51
+Server is running version 0.2.53
 {{< /callout >}}
 
 ATM9 has over 400 mods and countless quests and a built in proper endgame. Can you craft the ATM Star?
