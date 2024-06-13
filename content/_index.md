@@ -20,7 +20,7 @@ draft = false
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Servers"
-    subtitle="Mostly up to date list of avalialb servers"
+    subtitle="Mostly up to date list of available servers"
 	link=servers
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
