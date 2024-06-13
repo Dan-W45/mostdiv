@@ -1,5 +1,5 @@
 +++
-title = '🟠 Satisfactory'
+title = '🔴 Satisfactory'
 weight = 1
 draft = false
 [cascade]
