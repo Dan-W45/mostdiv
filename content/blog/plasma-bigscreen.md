@@ -74,3 +74,7 @@ clutter up the launcher here.
 
 Additional tweaks include adding rules launch programs like RetroArch with the `--fullscreen` tag,
 or Firefox always set to the maximum height and witdth of the display.
+
+Other useful links
+[Enable SSH on Debian](https://phoenixnap.com/kb/how-to-enable-ssh-on-debian)
+[Add Firefox to apt](https://support.mozilla.org/en-US/kb/install-firefox-linux#w_install-from-your-distribution-package-manager-recommended)
