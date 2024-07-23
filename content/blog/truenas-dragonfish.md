@@ -23,3 +23,13 @@ and then
 chmod +x /bin/apt*
 chmod +x /usr/bin/dpkg
 ```
+
+SMB shares do not show free/total instead display free/free resulting in a useless
+capacity bar in Windows. SMB Auxiliary Parameters are missing from the GUI.
+Editing smb4.conf to include `zfs_core:zfs_space_enabled = true` will fix that
+however the file will revert after each restart, there is no persistant way to fix this yet.
+```
+nano /etc/smb4.conf
+zfs_core:zfs_space_enabled = true
+service smbd restart
+```
