@@ -5,7 +5,7 @@ draft = true
 +++
 
 So you have a HTPC, and it needs an operating system, Windows 10 with the fullscreen
-start menu workes quite well as a launcher from couch distance to the screen
+start menu works quite well as a launcher from couch distance to the screen
 but a proper [10 foot interface](https://en.wikipedia.org/wiki/10-foot_user_interface)
 would be better.
 As a living room computer it also doesn't get turned on all too often so Windows updates are
@@ -34,9 +34,9 @@ sudo apt install gcc make perl git build-essential cmake libkf5activities-dev li
 ```
 Note that extra cmake modules is being removed as the version pre-installed is too new.
 Plasma Bigscreen is built on KDE Plasma 5, however Plasma 6 has been released and some packages have been updated
-to support that unfortunately breaking compatability. This is what makes it difficult to install onto Arch.
+to support that unfortunately breaking compatibility. This is what makes it difficult to install onto Arch.
 
-Insatll the correct version of extra cmake modules by manually cloning and installing this branch.
+Install the correct version of extra cmake modules by manually cloning and installing this branch.
 ```
 cd ~/Downloads
 git clone --branch v5.116.0 https://invent.kde.org/frameworks/extra-cmake-modules
@@ -49,7 +49,7 @@ Other dependencies that cannot be installed with apt or are already updated to P
 ```
 cd ~/Downloads
 git clone --branch kf5 https://github.com/KDE/kirigami-addons.git
-cd  kirigami-addons
+cd kirigami-addons
 cmake -B build -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release
 cmake --build build
 sudo cmake --build build --target install
@@ -64,7 +64,7 @@ sudo cmake --build build --target install
 
 The rest can be installed using apt
 ```
-sudo apt install plasma-nano plasma-remotecontrollers
+sudo apt install plasma-nano plasma-remotecontrollers plasma-mobile
 sudo apt install plasma-bigscreen
 ```
 I have not had any luck using an Xbox controller to navigate through Bigscreen yet.
@@ -73,7 +73,7 @@ a lot of programs that would ordinarily be useful for a desktop computer but jus
 clutter up the launcher here.
 
 Additional tweaks include adding rules launch programs like RetroArch with the `--fullscreen` tag,
-or Firefox always set to the maximum height and witdth of the display.
+or Firefox always set to the maximum height and width of the display.
 
 Other useful links
 [Enable SSH on Debian](https://phoenixnap.com/kb/how-to-enable-ssh-on-debian)

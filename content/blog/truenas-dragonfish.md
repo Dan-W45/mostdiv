@@ -56,3 +56,22 @@ sharing smb query (grab the ID of your share)
 sharing smb update x (where x = your share ID)
 ```
 
+## TBS DVB Driver installation
+{{< callout type="warning" >}}
+Driver installtion will not persist through TrueNAS updates
+{{< /callout >}}
+
+Go to https://www.tbsdtv.com/download/index.html to find the driver for the card you
+have, use wget to download the zip to TrueNAS.
+
+```markdown {filename="readme.txt"}
+make sure that you have installed gcc then use these command
+
+# wget http://www.tbsdtv.com/download/document/linux/media_build-2024-04-29.tar.bz2
+# sudo rm -rf /lib/modules/`uname -r`/kernel/drivers/media/
+#tar jxvf media_build-2024-04-29.tar.bz2
+#cd media_build 
+#./install.sh 
+#reboot 
+```
+
