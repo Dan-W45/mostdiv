@@ -1,7 +1,7 @@
 +++
 title = 'Windows Activation'
 date = 2024-02-07T11:11:58Z
-draft = true
+draft = false
 +++
 
 # Microsoft Activation Scripts (MAS)
