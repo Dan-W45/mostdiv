@@ -12,7 +12,7 @@ List of minecraft servers
 
 
 {{< cards >}}
-  {{< card link="gtnh" title="🟢 GregTech New Horizons" >}}
+  {{< card link="gtnh" title="🔴 GregTech New Horizons" >}}
   {{< card link="create_ab" title="🔴 Create A&B" >}}
   {{< card link="steampunk" title="🔴 SteamPunk" >}}
 {{< /cards >}}

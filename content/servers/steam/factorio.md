@@ -1,7 +1,7 @@
 +++
-title = '🔴 Factorio'
+title = '🟢 Factorio'
 weight = 2
-draft = true
+draft = false
 [cascade]
 	type = 'docs'
 +++

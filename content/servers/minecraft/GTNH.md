@@ -1,5 +1,5 @@
 +++
-title = '🟢 GregTech New Horizons'
+title = '🔴 GregTech New Horizons'
 weight = 1
 draft = false
 toc = false
