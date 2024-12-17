@@ -1,5 +1,5 @@
 +++
-title = '🟢 Factorio'
+title = '🔴 Factorio'
 weight = 2
 draft = false
 [cascade]

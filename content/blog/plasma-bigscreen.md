@@ -1,7 +1,9 @@
 +++
 title = 'Plasma Bigscreen'
 date = 2024-07-20T21:12:08+01:00
-draft = true
+draft = false
+[cascade]
+	type = 'blog'
 +++
 
 So you have a HTPC, and it needs an operating system, Windows 10 with the fullscreen
