@@ -1,13 +1,13 @@
 +++
 title = 'OctoPrint'
 date = 2025-05-31T03:23:45+01:00
-draft = true
+draft = false
 [cascade]
 	type = 'blog'
 +++
 
 The no fluff super simplified version of how I installed
-OctoPrint on a Pi 3B running Raspbian (Bookworm)
+OctoPrint on a Pi 3B running Raspbian (Debian 12 Bookworm)
 
 Raspberry Pi Imager is used to flash the SD card with PiOS lite
 as we don't need a desktop environment, make sure to setup the
