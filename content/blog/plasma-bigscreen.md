@@ -6,6 +6,12 @@ draft = false
 	type = 'blog'
 +++
 
+> [!NOTE]
+This guide was made when Bigscreen for Plasma 5 was the latest version.
+It is currently being re-written to support Plasma 6 and
+[unavalable to general users.](https://plasma-bigscreen.org/get/)
+
+
 So you have a HTPC, and it needs an operating system, Windows 10 with the fullscreen
 start menu works quite well as a launcher from couch distance to the screen
 but a proper [10 foot interface](https://en.wikipedia.org/wiki/10-foot_user_interface)

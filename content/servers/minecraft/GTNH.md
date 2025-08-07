@@ -14,10 +14,9 @@ toc = false
 {{< /cards >}}
 
 
-{{< callout type="warning" >}}
+> [!CAUTION]
 The server has Magical Crops 1.7.10 added:\
 https://www.curseforge.com/minecraft/mc-mods/magical-crops/files/2236937
-{{< /callout >}}
 
 
 {{% steps %}}

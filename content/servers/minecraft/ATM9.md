@@ -13,9 +13,8 @@ toc = false
 	{{< card link="https://www.curseforge.com/minecraft/modpacks/all-the-mods-9" title="curseforge modpack page" icon="external-link">}}
 {{< /cards >}}
 
-{{< callout type="info" >}}
+> [!WARNING]
 Server is running version 0.2.53
-{{< /callout >}}
 
 ATM9 has over 400 mods and countless quests and a built in proper endgame. Can you craft the ATM Star?
 Do you dare take on the Gregstar?
@@ -25,10 +24,9 @@ All the Mods 9 continues the tradition of adding many new mods while going for m
 Does "All the Mods" really contain ALL THE MODS? No, of course not.
 
 
-{{< callout type="warning" >}}
+> [!TIP]
 Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/4592954
-{{< /callout >}}
 
 
 {{% steps %}}

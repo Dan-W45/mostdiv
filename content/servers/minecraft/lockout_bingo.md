@@ -28,8 +28,7 @@ If you don't already have it, download [GDLauncher](https://gdlauncher.com/), an
 
 {{% /steps %}}
 
-{{< callout type="info" >}}
+> [!TIP]
 If you want your skin to load (not just be Steve/Alex), you will also need to place 
 [OfflineSkins-1.19-v2.jar](https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/3879132)
 into the same mods folder as the other file.
-{{< /callout >}}

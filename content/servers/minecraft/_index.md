@@ -18,9 +18,9 @@ List of minecraft servers
 {{< /cards >}}
 
 
-{{< callout type="info" >}}
+> [!TIP]
 This is a useful mod that may be required for some servers:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins
-{{< /callout >}}
+
 
 

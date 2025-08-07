@@ -16,10 +16,9 @@ toc = false
 We don't know what the end goal is, there is no way to the Nether as portals do not light, and custom TFC world generation
 does not generate a stronghold.
 
-{{< callout type="warning" >}}
+> [!TIP]
 Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/3772643
-{{< /callout >}}
 
 
 {{% steps %}}

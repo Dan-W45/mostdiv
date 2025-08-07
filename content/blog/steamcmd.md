@@ -9,8 +9,7 @@ draft = true
 SteamCMD should be installed under a user that does not have sudo
 access, therfore requiring a new user account to be created
 
-{{< callout type="warning" >}}
-  Do not give steam user sudo
-{{< /callout >}}
+> [!WARNING]
+Do not give steam user sudo
 
 Wiki page for [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD)

@@ -2,6 +2,8 @@
 title = 'Truenas Dragonfish'
 date = 2024-06-22T14:32:02+01:00
 draft = false
+[cascade]
+	type = 'blog'
 +++
 
 ## Enabling apt
@@ -57,9 +59,12 @@ sharing smb update x (where x = your share ID)
 ```
 
 ## TBS DVB Driver installation
-{{< callout type="warning" >}}
+> [!CAUTION]
 Driver installtion will not persist through TrueNAS updates
-{{< /callout >}}
+
+> [!NOTE]
+Truenas 24.04 is the latest version I have been able to install drivers on
+
 
 Go to https://www.tbsdtv.com/download/index.html to find the driver for the card you
 have, use wget to download the zip to TrueNAS.

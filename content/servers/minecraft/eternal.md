@@ -16,10 +16,10 @@ toc = false
 Last known server version was MC Eternal 1.6.1 although it is most certainly not currently running.
 
 
-{{< callout type="warning" >}}
+> [!TIP]
 Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
-{{< /callout >}}
+
 
 
 {{% steps %}}

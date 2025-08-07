@@ -6,6 +6,9 @@ draft = false
 	type = 'blog'
 +++
 
+> [!NOTE]
+All new servers are installed through [Pterodactyl](../pterodactyl) and Wings
+
 I have this installed in a Debian Linux VM, a Satisfactory server is
 installed via steamcmd. path may not be configured to launch steamcmd
 from just the command line so cd around link it up or something then
@@ -31,6 +34,5 @@ cd /home/steam/SatisfactoryDedicatedServer
 steamcmd +force_install_dir ~/SatisfactoryDedicatedServer +login anonymous +app_update 1690800 -beta public validate +quit
 ```
 
-{{< callout type="info" >}}
-  See SteamCMD blog post [here](../steamcmd)
-{{< /callout >}}
+> [!IMPORTANT]
+See SteamCMD blog post [here](../steamcmd)

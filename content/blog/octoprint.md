@@ -96,6 +96,6 @@ In the UI, under Settings > Server > Commands, configure the following commands:
 * Shutdown system: `sudo shutdown -h now`
 
 
-{{< callout type="info" >}}
-  OctoPrint comminity guide [here](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspberry-pi-os-debian/2337)
-{{< /callout >}}
+> [!IMPORTANT]
+OctoPrint comminity guide [here](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspberry-pi-os-debian/2337)
+

@@ -15,10 +15,10 @@ toc = false
 
 Detailed & Immersive SteamPunk Theme Modpack with over 1000 quests!
 
-{{< callout type="warning" >}}
+> [!TIP]
 Server will not render skins by default. Add this mod for skin rendering:\
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/3920644
-{{< /callout >}}
+
 
 
 {{% steps %}}
