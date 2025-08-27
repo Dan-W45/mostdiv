@@ -1,5 +1,5 @@
 +++
-title = '🟢 Space Engineers'
+title = '🔴 Space Engineers'
 weight = 2
 draft = false
 [cascade]

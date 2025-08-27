@@ -1,5 +1,5 @@
 +++
-title = '🟢 Lockout Bingo'
+title = '🔴 Lockout Bingo'
 date = 2024-11-09T07:25:13Z
 draft = true
 toc = false
