@@ -19,6 +19,7 @@ jobs:
         dig -t a +short ${{ secrets.SSH_HOST }} | grep ^[0-9] | xargs -r -n1 ssh-keyscan -H -p ${{ secrets.SSH_PORT }} >> ~/.ssh/known_hosts
     - name: connect and pull
       run: |
+        touch ~/.ssh/machine.key
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/machine.key
         chmod 600 ~/.ssh/external-machine.key
         ssh -i ~/.ssh/machine.key ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} -p ${{ secrets.SSH_PORT }} "cd ${{ secrets.WORK_DIR }} && git checkout ${{ secrets.MAIN_BRANCH }} && git pull && exit"
