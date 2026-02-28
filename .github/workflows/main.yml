@@ -22,7 +22,6 @@ jobs:
       run: |
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/machine.key
         chmod 600 ~/.ssh/machine.key
-        dig +short ${{ secrets.SSH_HOST }} >> $address$
-        ssh -i ~/.ssh/machine.key ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} -p ${{ secrets.SSH_PORT }} "cd ${{ secrets.WORK_DIR }} && git checkout ${{ secrets.MAIN_BRANCH }} && git pull && exit"
+        ssh -i ~/.ssh/machine.key ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} -p ${{ secrets.SSH_PORT }} "./deploy.sh && exit"
     - name: cleanup
       run: rm -rf ~/.ssh
