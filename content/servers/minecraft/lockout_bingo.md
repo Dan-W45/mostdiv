@@ -1,7 +1,7 @@
 +++
 title = '🔴 Lockout Bingo'
 date = 2024-11-09T07:25:13Z
-draft = true
+draft = false
 toc = false
 [cascade]
 	type = 'docs'

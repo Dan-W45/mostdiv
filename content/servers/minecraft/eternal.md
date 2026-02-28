@@ -1,7 +1,7 @@
 +++
 title = '🔴 MC Eternal'
 weight = 2
-draft = true
+draft = false
 toc = false
 [cascade]
 	type = 'docs'
